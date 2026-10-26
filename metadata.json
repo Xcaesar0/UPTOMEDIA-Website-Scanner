@@ -1,0 +1,8 @@
+{
+  "name": "UP TO MEDIA — فحص الموقع المجاني",
+  "description": "فحص مجاني وشامل لأداء موقعك خلال دقيقة: السرعة، خريطة الانتباه بالذكاء الاصطناعي، تحسين محركات البحث (SEO)، وتجربة المستخدم.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
